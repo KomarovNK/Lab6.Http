@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Name": "Julie Walker",
+    "Active": "Active"
+  },
+  {
+    "Id": 2,
+    "Name": "Maria Smith",
+    "Active": "Active"
+  },
+  {
+    "Id": 3,
+    "Name": "Sharon Williams",
+    "Active": "Active"
+  },
+  {
+    "Id": 4,
+    "Name": "Ann Morris",
+    "Active": "Pause"
+  },
+  {
+    "Id": 5,
+    "Name": "Mary Harris",
+    "Active": "Off"
+  }
+]
